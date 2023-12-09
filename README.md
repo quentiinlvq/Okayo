@@ -48,3 +48,12 @@
     "dateDebut": "09-12-2023",
     "dateFin": "" *non obligatoire*
 }
+
+### Supprimer un attribut d'une entité (DELETE) :
+--> URL : '/nom_entite/Id_attribut
+
+## Reponses
+### Succès : 
+Status 200 OK
+### Erreur :
+Status 400 Bad Request
