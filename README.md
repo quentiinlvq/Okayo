@@ -1,4 +1,4 @@
-# Documentation API Okayo
+# Documentation API RESTFul Okayo
 
 ## Endpoints
 
